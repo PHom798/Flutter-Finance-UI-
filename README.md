@@ -1,2 +1,16 @@
-# Flutter-Finance-UI-
-The Flutter Finance UI is a user interface template specifically designed for finance applications built using Flutter. This template is particularly suitable for beginners, providing an excellent opportunity to practice and enhance their Flutter development skills.
+# finance
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
